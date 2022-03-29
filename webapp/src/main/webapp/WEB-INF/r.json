@@ -1,0 +1,19 @@
+{
+    "Id" : 123,
+    "firstName" : "Person first name ",
+    "lastName" : "Person last anme",
+    "salary" : 56.656,
+    "isAlive"  : false,
+    "phoneNubers" : [3352644555445454,49545161919,494651],
+    "friend" : {
+        "Id" : 123,
+        "firstName" : "Person first name ",
+        "lastName" : "Person last anme",
+        "salary" : 56.656,
+        "isAlive"  : false,
+        "phoneNubers" : [3352644555445454,49545161919,494651],
+        "revwsty":1233
+
+
+    }
+}
